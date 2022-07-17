@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aywKR1DV2KP0PFR0hNzT7JiBTAY0IEsadQ4+6Kwpj9I=",
+  "Source": "vasotoSQLAzure",
+  "BasePath": "_content/vasotoSQLAzure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

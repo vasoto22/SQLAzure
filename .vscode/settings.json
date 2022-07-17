@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/cf37d835-1d70-4ad3-8419-3661175a0620/microsoft.web/sites/subscriptions/cf37d835-1d70-4ad3-8419-3661175a0620/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/contactsvasoto"
+}
